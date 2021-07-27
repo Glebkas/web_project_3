@@ -4,10 +4,8 @@
   margin: 0 auto;
 }
 
-
-@media screen and (max-width :1200px) {
-    .cover{
-        height: calc(100vw * (630 / 1024));
-    }
-    
+@media screen and (max-width: 1200px) {
+  .cover {
+    height: calc(100vw * (630 / 1024));
+  }
 }

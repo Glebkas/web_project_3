@@ -40,7 +40,6 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-
 @font-face {
   font-family: "inter";
   src: url(../fonts/Inter-Regular.woff) format("woff");
@@ -52,4 +51,3 @@
   src: url(../fonts/Inter-Black.woff) format("woff");
   font-weight: 900;
 }
-

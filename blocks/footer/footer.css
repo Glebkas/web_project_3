@@ -12,16 +12,15 @@
 }
 
 @media screen and (max-width: 768px) {
-    .footer {
-      margin: 88px 24px 24px 24px;
-    }
+  .footer {
+    margin: 88px 24px 24px 24px;
   }
+}
 
-  @media screen and (max-width: 442px) {
-    .footer {
-      display: flex;
-      flex-direction: column;  
-      margin: 64px 16px 24px 16px;
-
-    }
+@media screen and (max-width: 442px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    margin: 64px 16px 24px 16px;
   }
+}

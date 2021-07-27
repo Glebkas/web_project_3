@@ -1,18 +1,14 @@
-.place{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap:48px 40px;
-    margin: 0 0 80px 0; 
+.place {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 48px 40px;
+  margin: 0 0 80px 0;
 }
 
-
-@media screen and (max-width :442px){
-
-    .place{
-        grid-template-columns: 1fr;
-        grid-gap: 32px 40px;
-        margin: 0 0 48px 0; 
-
-
-    }    
+@media screen and (max-width: 442px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-gap: 32px 40px;
+    margin: 0 0 48px 0;
+  }
 }

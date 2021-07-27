@@ -19,9 +19,9 @@
 }
 
 @media screen and (max-width: 320px) {
-    .lead__image-caption {
-      margin: 8px 0 0 16px;
-      max-width: 720px;
-      align-self: unset;
-    }
+  .lead__image-caption {
+    margin: 8px 0 0 16px;
+    max-width: 720px;
+    align-self: unset;
   }
+}

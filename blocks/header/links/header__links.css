@@ -1,5 +1,5 @@
-.header__links{
-    display: flex;
-    flex-wrap: wrap;
-    align-content: flex-end;
+.header__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-end;
 }
