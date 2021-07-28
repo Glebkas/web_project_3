@@ -2,6 +2,9 @@
   margin: 8px 0 0 0;
   font-weight: 400;
   font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 1024px) {
@@ -13,15 +16,11 @@
 @media screen and (max-width: 768px) {
   .lead__image-caption {
     margin: 8px 0 0 24px;
-    max-width: 720px;
-    align-self: unset;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__image-caption {
     margin: 8px 0 0 16px;
-    max-width: 720px;
-    align-self: unset;
   }
 }
